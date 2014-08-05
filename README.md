@@ -1,6 +1,6 @@
-# Airbnb JavaScript Style Guide() {
+# Hoist JavaScript Style Guide() {
 
-*A mostly reasonable approach to JavaScript*
+*A mostly reasonable approach to JavaScript (with Hoist flavours)*
 
 
 ## Table of Contents
